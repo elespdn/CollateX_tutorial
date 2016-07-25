@@ -1,3 +1,3 @@
-# Coding and collation workshop
+# DiXiT Coding and collation workshop
 
 Tutorials, exercises, materials
