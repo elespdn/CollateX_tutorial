@@ -1,2 +1,3 @@
-# collatex-tutorial
-A CollateX tutorial repo
+# Coding and collation workshop
+
+Tutorials, exercises, materials
