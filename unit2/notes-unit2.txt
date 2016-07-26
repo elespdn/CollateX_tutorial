@@ -1,1 +1,11 @@
-notes unit2
+Unit 2 - Elena and Elli
+
+Be clear about terminology
+- what is collation? Easy answer: comparison of text.
+- why is collation used: 1) making editions (critical editions with multiple witnesses and genetic editions); 2) tracking textual transmission.
+- what is a base text: we classify two moments in the editorial workflow. First, a base text is used only as an “axis of alignment” against which the 
+
+* Editorial theory *  Elli
+
+
+* History of automatic collation * Elena
