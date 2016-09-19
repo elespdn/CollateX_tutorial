@@ -1,5 +1,4 @@
-Here:
-http://woolfonline.com/?node=about/copyright
+- http://woolfonline.com/?node=about/copyright
 
 
 For the purpose of this copyright notice, all Virginia Woolf material contained within Woolf Online (www.woolfonline.com) is hereby defined as:
@@ -22,4 +21,4 @@ B. Additional Material
     Extracts from Sketch of the Past
     Essays by Virginai Woolf
 
-As such, the above defined material is provisioned for online publication and reading only at Woolf Online (www.woolfonline.com) and may not be copied, distributed, transmitted or otherwise altered or manipulated without the express permissions of the Estate of Virginia Woolf and the Society of Authors as the literary representatives of the estate of Virginia Woolf.
+### As such, the above defined material is provisioned for online publication and reading only at Woolf Online (www.woolfonline.com) and may not be copied, distributed, transmitted or otherwise altered or manipulated without the express permissions of the Estate of Virginia Woolf and the Society of Authors as the literary representatives of the estate of Virginia Woolf.
