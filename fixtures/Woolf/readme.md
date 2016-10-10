@@ -7,4 +7,4 @@ The three versions, corresponging to different editions, are indicated with the 
 - EM (EVERYMAN) = London: J. M. Dent & Sons LTD, 1938 (reprint 1952)
 
 
-See the Licence for copyright and aknowledgment.
+See the Licence for copyright and acknowledgement.
