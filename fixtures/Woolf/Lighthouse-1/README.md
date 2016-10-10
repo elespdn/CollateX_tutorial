@@ -3,8 +3,10 @@
 - [UK, pp. 16-17](http://woolfonline.com/?node=content/text/transcriptions&project=1&parent=2&taxa=20&content=3139&pos=19)
 - [EVERYMAN, p. 7](http://woolfonline.com/?node=content/text/transcriptions&project=1&parent=2&taxa=22&content=3804&pos=24)
 
+
 #### More ... 
 Check the [First Proof, p. 17](http://woolfonline.com/?node=content/text/transcriptions&project=1&parent=2&taxa=18&content=4172&pos=14
 ) and see the addition *Isles* in the margin. 
 
-**N.b.**: the metadata section, on the right of each page, contains info about provenance and copyright.
+
+**N.b.**: the metadata section, on the right of each page in *Woolf Online*, contains info about provenance and copyright.
