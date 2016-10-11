@@ -46,19 +46,13 @@ The workshop engages with the theory and practice of semi-automated collation an
 
 #### Day 3
 9h30-11h:	UNIT 10 - Work on participant's own materials
-
 11h-11h30:	*Coffee break*
-
 11h30-12h30:	UNIT 11 - Presentations of ongoing research related to automatic collation	
-
 12h30-13h:	UNIT 12 - Feedbacks from participants and instructors
-
 13h-14h:	*Lunch*
-
 14h-15h30:	UNIT 13 - Work on participant's own materials
 
 ## Instructors
-Instructors
 - Tara Andrews (University of Vienna, http://www.univie.ac.at/Geschichte/htdocs2/site/arti.php/91079)
 - Gioele Barabucci (University of Cologne, http://svario.it/gioele/uni)
 - David J. Birnbaum (University of Pittsburgh, http://www.obdurodon.org)
