@@ -1,11 +1,16 @@
 Unit 2 - Elena and Elli
 
 Be clear about terminology
-- what is collation? Easy answer: comparison of text.
-- why is collation used: 1) making editions (critical editions with multiple witnesses and genetic editions); 2) tracking textual transmission.
-- what is a base text: we classify two moments in the editorial workflow. First, a base text is used only as an “axis of alignment” against which the 
+- what is collation? Easy answer: comparison of text. But it is more complicated than that: different editorial traditions attribute different meanings to "collation" and the concepts of collation.
+- why is collation used: 1) making editions (critical editions with multiple witnesses and genetic editions); 2) tracking textual transmission; (3) to find the archetype.
+- definitions differ depending on the concept of collation. E.g. what is a "base text"? There are two moments in the editorial workflow when the concept of "base text" is used. First, a base text is used only as an “axis of alignment” against which the other witnesses are collated. Second, with base text can be meant the text that serves as the basis of a critical edition. It is important to specify. The same goes for the concept of "version". In practice we only need "something" to compare. This can be a long text, a sentence, a word or even a grapheme. For reasons of clarity the scope of the witness needs to be clear.
 
 * Editorial theory *  Elli
-
+- not too long: in unit 4 we elaborate on the theory of collation
+- historical uses of collation for textual scholarship and scholarly editing: why it it used and why is it useful
+- short(!) overview of different editorial schools and why they use collation (to show that we do not prefer one over the other and that collation is useful for various editorial objectives.
+- 
 
 * History of automatic collation * Elena
+(from notebook 4 which is now Gothenburg model)
+- collation tools past and present
