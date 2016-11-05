@@ -5,3 +5,5 @@ This repository hosts materials for the workshop **Code and Collation: Training 
 The workshop engages with the theory and practice of semi-automated collation and provides an intense training in the open source collation program CollateX. Participants will learn how to prepare source materials, how to perform semi-automated collation using CollateX, and how to inspect and modify the results; they will acquire or improve computational skills relevant to textual criticism and in particular to the production of scholarly editions.
 
 Go to the [Intro notebook](http://nbviewer.jupyter.org/github/DiXiT-eu/collatex-tutorial/blob/master/INTRO.ipynb) for further info, including the schedule, the list of the instructors and the table of contents with links to the tutorials.
+
+NOTE: the materials in this repository are released under a GLP 3.0 [licence](https://github.com/DiXiT-eu/collatex-tutorial/blob/master/LICENSE). If you are interested in the materials in Fixtures/Woolf, refer to the specific [licence](https://github.com/DiXiT-eu/collatex-tutorial/tree/master/fixtures/Woolf) in that directory.
